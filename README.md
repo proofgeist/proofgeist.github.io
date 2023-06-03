@@ -1,2 +1,2 @@
 # emailsig
-email signature images and code
+Proof+Geist public email signatures, images, and code.
